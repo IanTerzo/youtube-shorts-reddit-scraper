@@ -1,4 +1,4 @@
-# Automatically scrape images from reddit posts and generate short 10 second videos for YouTube
+# Automatically scrape images from reddit and generate short 10 second videos for YouTube
 **Demo**: https://www.youtube.com/@dailymemeshq 
 
 This project takes two images from a subreddit of your liking and generates a short 10 second video ready to be uploaded to YouTube. You can customize the background, the audio and you can choose from where and what images to use.
