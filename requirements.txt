@@ -1,0 +1,7 @@
+selenium==4.10.0
+requests==2.30.0
+urllib3==2.0.2
+opencv-python==4.7.0.72
+imutils==0.5.4
+beautifulsoup4==4.12.2
+Wand==0.6.11
