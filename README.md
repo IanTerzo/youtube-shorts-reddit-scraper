@@ -6,7 +6,7 @@ In the example channel above i am using memes from the [dankmemes](https://www.r
 
 ## Requirements
 
-Except from all the Python modules you will aslo need [ffmpeg](https://ffmpeg.org/download.html) to add audio to the video (make sure ffmpeg is added to path) and you will also need [wand](https://docs.wand-py.org/en/0.6.7/guide/install.html) wich is required to build together the images. 
+Except from all the Python modules you will also need [ffmpeg](https://ffmpeg.org/download.html) to add audio to the video (make sure ffmpeg is added to path) and you will also need [wand](https://docs.wand-py.org/en/0.6.7/guide/install.html) wich is required to build together the images. 
 
 ## Usage
 
